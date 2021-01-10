@@ -1,4 +1,4 @@
-# README
+# Relay control 
 
 * Add board: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 * Board: ESP8266 Boards -> Generic 8266 Module
